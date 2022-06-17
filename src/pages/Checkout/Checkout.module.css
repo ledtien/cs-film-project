@@ -1,0 +1,15 @@
+.trapezoid {
+    border-bottom: 50px solid gray;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 80%;
+    opacity: 0.5;
+    filter: drop-shadow(-4px 74px 31px #807c7c);
+-webkit-filter: drop-shadow(-4px 74px 31px #807c7c);
+-moz-filter: drop-shadow(-4px 74px 31px #807c7c);
+  }
+
+
+
+ 

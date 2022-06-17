@@ -1,0 +1,16 @@
+.slick-prev::before, .slick-next::before {
+    color: gray !important;
+    font-size: 3rem !important;
+}
+
+.slick-prev {
+    left: -50px !important;
+}
+
+.active_film {
+    @apply bg-orange-400 text-white
+}
+
+.none_active_film {
+    @apply text-gray-500 bg-white
+}

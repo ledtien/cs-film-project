@@ -1,0 +1,8 @@
+export const LAY_DANH_SACH_PHIM = "LAY_DANH_SACH_PHIM";
+
+export const LAY_PHIM_DANG_CHIEU = "PHIM_DANG_CHIEU";
+
+export const LAY_PHIM_SAP_CHIEU = "PHIM_SAP_CHIEU";
+export const LAY_TAT_CA_PHIM = "LAY_TAT_CA_PHIM";
+
+export const LAY_THONG_TIN_PHIM = "LAY_THONG_TIN_PHIM";
